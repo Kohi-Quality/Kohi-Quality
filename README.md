@@ -1,4 +1,4 @@
-                            KOHI QUALITY
+                                            KOHI QUALITY
 
 Regras de condução do projeto:
 
