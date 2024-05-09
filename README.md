@@ -1,6 +1,6 @@
                                             KOHI QUALITY
 
-Regras de condução do projeto:
+Regras de condução e diretrizes do projeto:
 
 1.	Dominar a ferramenta Github para que todos tenham participação responsável na organização de desenvolvimento do projeto;
 2.	Independente do entregável pelo qual cada um ficou responsável, devemos todos ter commits em todos os repositórios;
